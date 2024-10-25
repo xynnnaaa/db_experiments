@@ -4,10 +4,10 @@ import random
 
 def get_new_sample(file_path, total_num, output_sql_file):
     """
-    处理 badges 文件中的数据，生成相应的 SQL 插入语句。
-
-    :param file_path: 包含 badge 数据的文本文件路径。
-    :param total_num: 总数，用于确定范围。
+    从包含符合查询条件的sid的文本文件中按比例随机选择部分sid, 并生成相应的 SQL 语句。
+    
+    :param file_path: 包含符合查询条件tuple的sid的文本文件路径。
+    :param total_num: 表的基数
     :param output_sql_file: 输出 SQL 语句的文件路径。
     """
     # 使用 set 存储满足条件的sid
