@@ -1,0 +1,89 @@
+Cluster 0: 319 vectors
+Cluster 1: 31989 vectors
+Cluster 2: 7519 vectors
+Cluster 3: 5200 vectors
+Cluster 4: 2049 vectors
+Cluster 5: 955 vectors
+Cluster 6: 2229 vectors
+Cluster 7: 394 vectors
+
+Cluster 0 segment sums:
+users (1-100): Max value at index 0: 319.0
+posts (101-200): Max value at index 7: 319.0
+postLinks (201-300): Max value at index 0: 319.0
+postHistory (301-400): Max value at index 0: 319.0
+comments (401-500): Max value at index 87: 305.0
+votes (501-600): Max value at index 6: 319.0
+badges (601-700): Max value at index 0: 319.0
+tags (701-800): Max value at index 0: 319.0
+
+Cluster 1 segment sums:
+users (1-100): Max value at index 46: 31985.0
+posts (101-200): Max value at index 75: 31945.0
+postLinks (201-300): Max value at index 21: 31988.0
+postHistory (301-400): Max value at index 99: 31985.0
+comments (401-500): Max value at index 18: 31988.0
+votes (501-600): Max value at index 6: 31983.0
+badges (601-700): Max value at index 42: 31987.0
+tags (701-800): Max value at index 0: 31989.0
+
+Cluster 2 segment sums:
+users (1-100): Max value at index 0: 5797.0
+posts (101-200): Max value at index 5: 7484.0
+postLinks (201-300): Max value at index 0: 7519.0
+postHistory (301-400): Max value at index 27: 7470.0
+comments (401-500): Max value at index 74: 7495.0
+votes (501-600): Max value at index 37: 7512.0
+badges (601-700): Max value at index 2: 7519.0
+tags (701-800): Max value at index 0: 7519.0
+
+Cluster 3 segment sums:
+users (1-100): Max value at index 99: 5198.0
+posts (101-200): Max value at index 75: 1918.0
+postLinks (201-300): Max value at index 0: 5200.0
+postHistory (301-400): Max value at index 25: 5200.0
+comments (401-500): Max value at index 22: 5199.0
+votes (501-600): Max value at index 6: 5199.0
+badges (601-700): Max value at index 0: 5200.0
+tags (701-800): Max value at index 0: 5200.0
+
+Cluster 4 segment sums:
+users (1-100): Max value at index 99: 2049.0
+posts (101-200): Max value at index 15: 2048.0
+postLinks (201-300): Max value at index 0: 2049.0
+postHistory (301-400): Max value at index 4: 2049.0
+comments (401-500): Max value at index 24: 2047.0
+votes (501-600): Max value at index 76: 1524.0
+badges (601-700): Max value at index 0: 2049.0
+tags (701-800): Max value at index 0: 2049.0
+
+Cluster 5 segment sums:
+users (1-100): Max value at index 0: 954.0
+posts (101-200): Max value at index 57: 954.0
+postLinks (201-300): Max value at index 0: 955.0
+postHistory (301-400): Max value at index 21: 412.0
+comments (401-500): Max value at index 55: 954.0
+votes (501-600): Max value at index 12: 955.0
+badges (601-700): Max value at index 0: 955.0
+tags (701-800): Max value at index 0: 955.0
+
+Cluster 6 segment sums:
+users (1-100): Max value at index 0: 2225.0
+posts (101-200): Max value at index 5: 2224.0
+postLinks (201-300): Max value at index 0: 2229.0
+postHistory (301-400): Max value at index 27: 2226.0
+comments (401-500): Max value at index 39: 762.0
+votes (501-600): Max value at index 0: 2228.0
+badges (601-700): Max value at index 0: 2229.0
+tags (701-800): Max value at index 0: 2229.0
+
+Cluster 7 segment sums:
+users (1-100): Max value at index 1: 394.0
+posts (101-200): Max value at index 2: 394.0
+postLinks (201-300): Max value at index 0: 394.0
+postHistory (301-400): Max value at index 1: 369.0
+comments (401-500): Max value at index 0: 394.0
+votes (501-600): Max value at index 0: 394.0
+badges (601-700): Max value at index 0: 394.0
+tags (701-800): Max value at index 0: 394.0
+
